@@ -1,0 +1,52 @@
+body {
+  background-color: #2dcb89
+}
+.form-field {
+  display: block;
+  padding: 20px;
+  text-align: center;
+}
+
+.app-compo {
+  text-align: center;
+}
+
+.app-title {
+  font-size: 20px;
+}
+
+/* -------------login component */
+.login-compo {
+  border-radius: 10px;
+  margin: 20px;
+
+}
+
+.login {
+  margin: 100px 200px 0px 200px;
+  border: #2dcb89 transparent;
+  border-radius: 10px;
+  background-color: #1a9763;
+  padding: 50px 0px 100px 0px;
+  font-size: 24px;
+}
+
+/* --------------form component */
+.form-body {
+  margin: 200px 0px 0px 0px;
+}
+
+.question {
+  margin-bottom: 40px;
+  font-size: 50px !important;
+  color: white !important;
+  display: block;
+}
+
+.answer{
+  font-size: 24px !important;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 600px;
+  display: block;
+  color: rgb(43, 43, 43) !important;
+}
